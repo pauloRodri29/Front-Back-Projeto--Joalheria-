@@ -13,6 +13,10 @@
     border-radius: 60px;
 }
 /*Menus e navs e headers*/
+.buttonpouup{
+    background-color: black;
+}
+
 .menu_susp{
 background-color: var(--fundo-padrao);
 }
@@ -21,21 +25,25 @@ background-color: var(--fundo-padrao);
 }
 
 /*Butões*/
-.meubutton:hover{
+.meubotton:hover{
     border: 0;
 }
-.meubutao{/*Buttonfromform*/
+.meubotao_selecione{
     background-color: var(--fundo-padrao);
-    border-radius: 5px;
+    border-color: black;
+    border-radius: 10px;
     color: black;
-    border: 0;
-    width: 128px;
 }
-.meubutao:hover{
-    background-color:var(--fundo-padrao-button-hover);
+.meubotao_selecione:hover{
+    background-color:  var(--fundo-padrao-button-hover);
+    border-color: black;
+    color: black;
+}
+.meubotao_selecione:active{
+    background-color: var(--fundo-padrao-button);
 }
 /*customização da tag <a>*/
-.meubutton:active{
+.meubotton:active{
     border: 0;
 }
 .meu_linkado:active{
@@ -44,6 +52,10 @@ background-color: var(--fundo-padrao);
 }
 .carrinused_a{
     color: black;
+}
+/*Corpo*/
+.adptado_conteiner{
+    height: 1000px;
 }
 
 /*Rodapé, toda parte inferior*/
@@ -64,3 +76,4 @@ background-color:  var(--fundo-padrao);
    margin-top: 100px;
 
 }
+
