@@ -23,10 +23,6 @@ Se você deseja lançar seu próprio site de vendas de joalheria, siga estes pas
 3. Personalize o site com suas próprias joias e informações.
 4. Inicie seu site de vendas e comece a atender clientes.
 
-## 📞 Entre em Contato
-
-Para obter mais informações sobre este projeto, entre em contato conosco através do [e-mail de suporte](mailto:suporte@joalheriaglamour.com) ou visite nosso [site oficial](https://www.joalheriaglamour.com).
-
 ## 💍 Deslumbre-se com a Elegância!
 
 Desenvolvido com Laravel e Bootstrap, nosso site é a porta de entrada para o mundo das joias de luxo. Permita que os visitantes explorem e comprem suas peças mais preciosas com facilidade. Esperamos que este projeto de site de vendas de joalheria inspire e eleve o seu negócio.
